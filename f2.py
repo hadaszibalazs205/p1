@@ -1,0 +1,1 @@
+print('Hello my friend!\nNagyon jó ez a program!\nÜdv, a program')
